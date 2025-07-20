@@ -30,6 +30,7 @@ def sing_song():
         ("Now I can't get you out of my brain", 0.07),
         ("Oh, it's such a shame", 0.07),
         ("That we don't talk anymore", 0.07),
+        ("We don't talk anymore", 0.07),
     ]
     delays = [0.5, 2.5, 5.4, 7.9, 10.0, 11.5, 14.5, 17.9, 19.6]
 
