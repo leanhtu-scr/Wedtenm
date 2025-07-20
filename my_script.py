@@ -32,7 +32,7 @@ def sing_song():
         ("That we don't talk anymore", 0.07),
         ("We don't talk anymore", 0.07),
     ]
-    delays = [0.5, 2.5, 5.4, 7.9, 10.0, 11.5, 14.5, 17.9, 19.6]
+    delays = [0.5, 2.5, 5.4, 7.9, 10.0, 11.5, 14.5, 17.9, 19.6, 17.9]
 
     threads = []
     for i in range(len(lyrics)):
